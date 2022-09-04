@@ -1,2 +1,2 @@
 # Kickstarter-Challange
-Submission of Excel Kickstarter
+Submitting Analysis of dataset to find out outcome of different fundraising campaign. 
